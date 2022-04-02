@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4593fe7-b7d0-4288-a9f1-084023aa5417" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjectCode.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectCode.ipynb" afterDir="false" />
+    <list default="true" id="d4593fe7-b7d0-4288-a9f1-084023aa5417" name="Default Changelist" comment="Added multivariate Gaussian with SVI. Location working pretty well, scale seems inaccurate">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,6 +51,47 @@
       <option name="presentableId" value="Default" />
       <updated>1648601173433</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added multivariate Gaussian with SVI. Location working pretty well, scale seems innaccurate">
+      <created>1648607879800</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648607879800</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added multivariate Gaussian with SVI. Location working pretty well, scale seems inaccurate">
+      <created>1648607920081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648607920081</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added multivariate Gaussian with SVI. Location working pretty well, scale seems innaccurate" />
+    <MESSAGE value="Added multivariate Gaussian with SVI. Location working pretty well, scale seems inaccurate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added multivariate Gaussian with SVI. Location working pretty well, scale seems inaccurate" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="53" key="SettingsEditor" timestamp="1648608985964">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816/-1920.-373.1920.1032@0.0.1536.816" timestamp="1648608985964" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1648608099019">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816/-1920.-373.1920.1032@0.0.1536.816" timestamp="1648608099019" />
   </component>
 </project>
